@@ -1,0 +1,18 @@
+Formato de datos Ctrl + Alt + L;
+
+import java.util.Scanner;
+
+Scanner sc = new Scanner (System.in);
+int n = sc.nextInt();
+
+Tipo de dato    Forma de lectura
+
+byte            byte b = Byte.parseByte(sc.nextLine());
+short           short s = Short.parseShort(sc.nextLine());
+int             int i = Integer.parseInt(sc.nextLine())
+long            long l = Long.parseLong(sc.nextLong());
+float           float f = Float.parseFloat(sc.nextLine());
+double          double d = Double.parseDouble(sc.nextLine());
+boolean         boolean b = Boolean.parseBoolean(sc.nextLine());
+String          String s   = sc.nextLine()
+char            char c = String.charAt(0);

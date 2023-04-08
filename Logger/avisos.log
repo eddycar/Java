@@ -1,0 +1,7 @@
+[2022-03-1011:44:31] [ INFO ] [Calculadora:26] Enpezamos la división: 1 / 0
+[2022-03-1011:44:31] [ ERROR] [Calculadora:32] Ocurrio un error al dividir:1 / 0
+java.lang.ArithmeticException: / by zero
+	at Calculadora.dividir(Calculadora.java:29)
+	at CalculadoraTest.main(CalculadoraTest.java:12)
+[2022-03-1011:44:31] [ INFO ] [Calculadora:26] Enpezamos la división: 2 / 3
+[2022-03-1011:44:31] [ DEBUG] [Calculadora:35] Terminamos de dividir con exito

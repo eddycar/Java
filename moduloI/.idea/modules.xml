@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/autos/autos.iml" filepath="$PROJECT_DIR$/autos/autos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/casino/casino.iml" filepath="$PROJECT_DIR$/casino/casino.iml" />
+      <module fileurl="file://$PROJECT_DIR$/herencia/herencia.iml" filepath="$PROJECT_DIR$/herencia/herencia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/juegos/juegos.iml" filepath="$PROJECT_DIR$/juegos/juegos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulo1.iml" filepath="$PROJECT_DIR$/modulo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/naves/naves.iml" filepath="$PROJECT_DIR$/naves/naves.iml" />
+      <module fileurl="file://$PROJECT_DIR$/numerosPrimos/numerosPrimos.iml" filepath="$PROJECT_DIR$/numerosPrimos/numerosPrimos.iml" />
+    </modules>
+  </component>
+</project>

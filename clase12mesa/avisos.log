@@ -1,0 +1,57 @@
+[2022-03-2011:44:17] [ ERROR] [Main:64] Hay claves repetidas, 
+java.lang.ClassNotFoundException: org.h2.Driver
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	at java.base/java.lang.Class.forName0(Native Method)
+	at java.base/java.lang.Class.forName(Class.java:375)
+	at Main.getConnection(Main.java:69)
+	at Main.main(Main.java:30)
+[2022-03-2011:51:36] [ ERROR] [Main:72] Hay claves repetidas, 
+java.lang.ClassNotFoundException: org.h2.Driver
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	at java.base/java.lang.Class.forName0(Native Method)
+	at java.base/java.lang.Class.forName(Class.java:375)
+	at Main.getConnection(Main.java:77)
+	at Main.main(Main.java:30)
+[2022-03-2011:51:56] [ ERROR] [Main:72] Hay claves repetidas, 
+java.lang.ClassNotFoundException: org.h2.Driver
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	at java.base/java.lang.Class.forName0(Native Method)
+	at java.base/java.lang.Class.forName(Class.java:375)
+	at Main.getConnection(Main.java:77)
+	at Main.main(Main.java:30)
+[2022-03-2011:52:02] [ ERROR] [Main:72] Hay claves repetidas, 
+java.lang.ClassNotFoundException: org.h2.Driver
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	at java.base/java.lang.Class.forName0(Native Method)
+	at java.base/java.lang.Class.forName(Class.java:375)
+	at Main.getConnection(Main.java:77)
+	at Main.main(Main.java:30)
+[2022-03-2012:06:32] [ ERROR] [Main:72] Hay claves repetidas, 
+java.lang.ClassNotFoundException: org.h2.Driver
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	at java.base/java.lang.Class.forName0(Native Method)
+	at java.base/java.lang.Class.forName(Class.java:375)
+	at Main.getConnection(Main.java:77)
+	at Main.main(Main.java:30)
+[2022-03-2012:11:35] [ ERROR] [Main:72] Hay claves repetidas, 
+java.lang.ClassNotFoundException: org.h2.Driver
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	at java.base/java.lang.Class.forName0(Native Method)
+	at java.base/java.lang.Class.forName(Class.java:375)
+	at Main.getConnection(Main.java:77)
+	at Main.main(Main.java:30)
+[2022-03-2218:57:18] [ ERROR] [Main:79] hubo un error: 
+java.lang.ArithmeticException: / by zero
+	at Main.main(Main.java:67)
